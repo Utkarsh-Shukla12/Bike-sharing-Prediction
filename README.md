@@ -27,11 +27,12 @@ Rest of the code
 
 [Bike Sharing Demand](https://www.kaggle.com/c/bike-sharing-demand)
 
-## Autor's Notes
+## Author's Notes
 
 Hi  there!! I have completed this project as First reuirement towards my Deep Learning Nanodegree. Please feel free to go through the code and use whole are any specific part of this project. :D
 
 _**Utkarsh Shukla**_
+
 
 ## License
 [MIT License](https://en.wikipedia.org/wiki/MIT_License)
