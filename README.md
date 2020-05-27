@@ -29,7 +29,7 @@ Rest of the code
 
 ## Autor's Notes
 
-Hi  there!!! I have completed this project as First project for my Deep Learning Nanodegree's. Please feel free to go through the code and use whole are any specific part of this project. :D
+Hi  there!! I have completed this project as First reuirement towards my Deep Learning Nanodegree. Please feel free to go through the code and use whole are any specific part of this project. :D
 
 _**Utkarsh Shukla**_
 
